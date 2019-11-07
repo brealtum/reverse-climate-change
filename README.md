@@ -9,4 +9,4 @@
 
 [Live App](https://repl.it)
 
-[Project Board](../../projects/1)
+[Project Board](../../projects/2)
