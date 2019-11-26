@@ -7,6 +7,6 @@
 
 ## Links
 
-[Live App](https://repl.it)
+[Live App](https://repl.it/@brealtum/reverse-climate-change)
 
 [Project Board](../../projects/2)
